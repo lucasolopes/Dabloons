@@ -19,4 +19,4 @@ IDEIA INICIAL
 para a organizacao do projeto estou disponibilizando 
 o link de um servidor no discord aonde seram tratados os assuntos 
 do projeto.
-discord: 
+discord: https://discord.gg/CVkDhUjTyR
